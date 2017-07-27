@@ -1,0 +1,5 @@
+install dependencies with:
+pip install -r requirements.txt
+
+run with:
+python src/books-api.py
