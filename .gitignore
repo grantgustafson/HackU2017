@@ -1,0 +1,8 @@
+prism/.idea/
+*.swp
+*.py[cod]
+*$py.class
+instance/
+.webassets-cache
+logs/*
+venv/
